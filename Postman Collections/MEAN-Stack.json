@@ -1,0 +1,126 @@
+{
+	"info": {
+		"_postman_id": "812b2dbb-5413-4846-8c7e-942a3ba92646",
+		"name": "Subscribers",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "User enroll",
+			"_postman_id": "14fc7a3d-e87a-41d3-9d2d-413b2a95ac73",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		},
+		{
+			"name": "ResetPassword",
+			"_postman_id": "f1878c71-5759-42d6-b28c-12292896c270",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		},
+		{
+			"name": "Feeds",
+			"_postman_id": "376af464-c915-4be9-b36e-ccee5e4f9612",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "http://127.0.0.1:9000/"
+			},
+			"response": []
+		},
+		{
+			"name": "Feeds_Subscribe",
+			"_postman_id": "3e1a2e8d-2361-4bc3-9d98-71b39e43a83b",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "http://127.0.0.1:9000/"
+			},
+			"response": []
+		},
+		{
+			"name": "Feeds_entries",
+			"_postman_id": "464d8ba2-7440-467f-8dee-050622d49fc2",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "http://127.0.0.1:9000/"
+			},
+			"response": []
+		},
+		{
+			"name": "All_Entries",
+			"_postman_id": "543cecf4-0c8a-4ea2-a1f9-9010ee482ffa",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "http://127.0.0.1:9000/"
+			},
+			"response": []
+		},
+		{
+			"name": "All_read_unread",
+			"_postman_id": "9ed19170-6c1f-45b2-8fd0-ebf57fa226a5",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "http://127.0.0.1:9000/"
+			},
+			"response": []
+		},
+		{
+			"name": "Specific_read_unread",
+			"_postman_id": "06066950-964e-4ee0-9db2-90367d0dc94c",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "http://127.0.0.1:9000/"
+			},
+			"response": []
+		},
+		{
+			"name": "Delete_feed",
+			"_postman_id": "ccbe11f1-e271-483c-92f5-9560a77583c0",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "http://127.0.0.1:9000/"
+			},
+			"response": []
+		}
+	]
+}
